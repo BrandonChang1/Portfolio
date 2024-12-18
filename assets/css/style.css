@@ -440,7 +440,7 @@ main {
 
 .social-item .social-link {
   color: var(--light-gray-70);
-  font-size: 18px;
+  font-size: 64px;
 }
 
 
@@ -1831,6 +1831,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 0;
     padding-top: 60px;
     z-index: 1;
+    min-width: 300px;
   }
 
   .sidebar-info { flex-direction: column; }
@@ -1855,7 +1856,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .contact-info :is(.contact-link) {
     white-space: nowrap;
-    overflow: hidden;
+    /* overflow: hidden; */
     text-overflow: ellipsis;
   }
 
