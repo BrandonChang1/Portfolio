@@ -9,6 +9,8 @@ is the pdf icon responsive for odnwloading resume? it is also too orange
 
 add correct linkedin link
 
+why should i have detailed description of skills in about when i need a skills page? redundant?
+
 show contacts when narrow screen means not enough gap between avatar and links
 
 better sample resume
