@@ -6,3 +6,9 @@ a bit more gap between social links would be good
 
 could be light and dark mode like in https://www.paytonpierce.dev/
 is the pdf icon responsive for odnwloading resume?
+
+show contacts when narrow screen means not enough gap between avatar and links
+
+better sample resume
+
+later on, make social media like linkedin and github more obvious, with descriptions and less gray icons
