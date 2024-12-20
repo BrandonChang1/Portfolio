@@ -25,6 +25,8 @@ a bit more gap between social links would be good
 could be light and dark mode like in https://www.paytonpierce.dev/
 is the pdf icon responsive for odnwloading resume? it is also too orange
 
+maybe skills like in https://github.com/aycanogut/aycan.dev
+
 detailed description of skills in about and also a skills page?
 
 show contacts when narrow screen means not enough gap between avatar and links
@@ -33,6 +35,6 @@ better sample resume
 
 later on, make social media like linkedin and github more obvious, with descriptions and less gray icons
 
-            less wasted space https://stackoverflow.com/questions/7516005/how-to-make-a-bullet-list-align-with-text-in-css<br>
-            https://codepen.io/emzarts/pen/OXzmym <br>
-            double column https://codepen.io/knaman2609/pen/Zbyjvv <br>
+ less wasted space https://stackoverflow.com/questions/7516005/how-to-make-a-bullet-list-align-with-text-in-css
+ https://codepen.io/emzarts/pen/OXzmym 
+double column https://codepen.io/knaman2609/pen/Zbyjvv
