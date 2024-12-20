@@ -26,3 +26,7 @@ show contacts when narrow screen means not enough gap between avatar and links
 better sample resume
 
 later on, make social media like linkedin and github more obvious, with descriptions and less gray icons
+
+            less wasted space https://stackoverflow.com/questions/7516005/how-to-make-a-bullet-list-align-with-text-in-css<br>
+            https://codepen.io/emzarts/pen/OXzmym <br>
+            double column https://codepen.io/knaman2609/pen/Zbyjvv <br>

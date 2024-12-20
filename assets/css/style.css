@@ -332,7 +332,6 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
   border-radius: 20px;
 }
 
@@ -933,7 +932,8 @@ main {
 .select-item button:hover { --eerie-black-2: hsl(240, 2%, 20%); }
 
 .project-list {
-  display: grid;
+  /* display: grid; */
+  
   grid-template-columns: 1fr;
   gap: 30px;
   margin-bottom: 10px;
@@ -955,7 +955,7 @@ main {
 
 .project-img {
   position: relative;
-  width: 100%;
+  width: 50%;
   height: 200px;
   border-radius: 16px;
   overflow: hidden;
@@ -1016,12 +1016,11 @@ main {
   color: var(--white-2);
   font-size: var(--fs-5);
   font-weight: var(--fw-400);
-  text-transform: capitalize;
   line-height: 1.3;
 }
 
 .project-category {
-  color: var(--light-gray-70);
+  color: var(--orange-yellow-crayola);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
