@@ -8,6 +8,10 @@ CPSC 349, Fall 2024
 
 Download the project by clicking on the Green "Code" button, then click "Download ZIP", or clone the repository using Git or Github tools. Extract the files if they are compressed. Open the "index.html" file in a modern web browser. 
 
+## Credits
+
+Inspired by https://github.com/codewithsadee/vcard-personal-portfolio
+
 ## Notes
 
 maybe flexbox for list of skills, or roles. volunteering, software dev, maintenance
@@ -17,9 +21,7 @@ a bit more gap between social links would be good
 could be light and dark mode like in https://www.paytonpierce.dev/
 is the pdf icon responsive for odnwloading resume? it is also too orange
 
-add correct linkedin link www.linkedin.com/in/brandon-c-398642341
-
-why should i have detailed description of skills in about when i need a skills page? redundant?
+detailed description of skills in about and also a skills page?
 
 show contacts when narrow screen means not enough gap between avatar and links
 
