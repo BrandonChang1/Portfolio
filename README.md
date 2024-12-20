@@ -6,7 +6,7 @@ CPSC 349, Fall 2024
 
 ## Usage
 
-Download the project by clicking on the Green "Code" button, then click "Download ZIP", or clone the repository using Git or Github tools. Extract the files if they are compressed. Open the "index.html" file. 
+Download the project by clicking on the Green "Code" button, then click "Download ZIP", or clone the repository using Git or Github tools. Extract the files if they are compressed. Open the "index.html" file in a modern web browser. 
 
 ## Notes
 
