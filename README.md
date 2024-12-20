@@ -21,7 +21,7 @@ a bit more gap between social links would be good
 could be light and dark mode like in https://www.paytonpierce.dev/
 is the pdf icon responsive for odnwloading resume? it is also too orange
 
-maybe skills like in https://github.com/aycanogut/aycan.dev
+maybe skills like in https://github.com/aycanogut/aycan.dev also has lightdark mode
 
 detailed description of skills in about and also a skills page?
 
