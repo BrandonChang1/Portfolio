@@ -12,10 +12,6 @@ Visit https://brandonchang1.github.io/Portfolio/
 ### Option 2
 Download the project by clicking on the Green "Code" button, then click "Download ZIP", or clone the repository using Git or Github tools. Extract the files if they are compressed. Open the "index.html" file in a modern web browser. 
 
-## Credits
-
-Inspired by https://github.com/codewithsadee/vcard-personal-portfolio
-
 ## Notes
 
 maybe flexbox for list of skills, or roles. volunteering, software dev, maintenance
@@ -28,6 +24,8 @@ is the pdf icon responsive for odnwloading resume? it is also too orange
 maybe skills like in https://github.com/aycanogut/aycan.dev
 
 detailed description of skills in about and also a skills page?
+
+https://github.com/codewithsadee/vcard-personal-portfolio codewithsadee left right scrolling? skills for categories all/ cat1 cat2 etc
 
 show contacts when narrow screen means not enough gap between avatar and links
 
