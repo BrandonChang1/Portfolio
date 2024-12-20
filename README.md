@@ -6,6 +6,10 @@ CPSC 349, Fall 2024
 
 ## Usage
 
+### Option 1
+Visit https://brandonchang1.github.io/Portfolio/
+
+### Option 2
 Download the project by clicking on the Green "Code" button, then click "Download ZIP", or clone the repository using Git or Github tools. Extract the files if they are compressed. Open the "index.html" file in a modern web browser. 
 
 ## Credits
